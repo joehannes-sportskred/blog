@@ -1,6 +1,6 @@
 # How Social Media has changed Sports
 
-![athlete of medals](/assets/img/blog/articles/social_media_changed_sports/olympics_for_athletes.jpg)
+![athlete of medals](/assets/blog/articles/social_media_changed_sports_dec17/olympics_for_athletes.jpg)
 
 ## How Social Media Has Changed The Olympics For Athletes
 
@@ -10,7 +10,7 @@
 Find out more [here](https://sportskred.us14.list-manage.com/track/click?u=8d530b582c8cdbbf62d91b7d4&id=05adde3564&e=1536c0f4b3).
 
 
-![athlete and his kid](/assets/img/blog/articles/social_media_changed_sports/for_better_or_worse.jpg)
+![athlete and his kid](/assets/blog/articles/social_media_changed_sports_dec17/for_better_or_worse.jpg)
 
 ## How social media changed sport - for better and worse
 
@@ -20,7 +20,7 @@ Find out more [here](https://sportskred.us14.list-manage.com/track/click?u=8d530
 
 Read more [here](https://sportskred.us14.list-manage.com/track/click?u=8d530b582c8cdbbf62d91b7d4&id=4c3cc15b98&e=1536c0f4b3).
 
-![basketball team selfie](/assets/img/blog/articles/social_media_changed_sports/impact_on_sports_culture.jpg)
+![basketball team selfie](/assets/blog/articles/social_media_changed_sports_dec17/impact_on_sports_culture.jpg)
 
 ## The Growing Impact of Social Media on Today's Sports Culture
 

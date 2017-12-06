@@ -1,6 +1,6 @@
 # Sportskred Blog
 
-![Sportskred News](/assets/img/blog/header.jpg)
+![Sportskred News](/assets/blog/header.jpg)
 
 Social media tips and trends in sponsorships for athletes.
 Enjoy the read and feel free to give us your [feedback][9a290407]!
@@ -9,6 +9,6 @@ Enjoy the read and feel free to give us your [feedback][9a290407]!
 
 ## Articles
 
-### [How Social Media has changed Sports - 4 Dec 17](articles/social_media_changed_sports_dec17.md)
+### [How Social Media has changed Sports - 4 Dec 17](social_media_changed_sports_dec17)
 
-### [Key Upcoming events in Sports - 4 Dec 17](articles/upcoming_events_dec17.md)
+### [Key Upcoming events in Sports - 4 Dec 17](upcoming_events_dec_17)
